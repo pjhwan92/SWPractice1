@@ -1,12 +1,12 @@
 # SWPractice1
+This repository consists of the lab practice source code which is used for lecturing SWPractice1 course
 
-## This repository consists of the lab practice source code which is used for lecturing SWPractice1 course
-### Target
+## Target
 * Introduce java for newbies
 * Learn basic techniques about programming using high level language
 * Understand about OOP language
 
-### Notices
+## Notices
 * Skeleton code directory will be uploaded before lectures
 * Example of answer code for each lab practice will be uploaded after submission due
 * All codes will be formatted to easly import the project into Eclipse
